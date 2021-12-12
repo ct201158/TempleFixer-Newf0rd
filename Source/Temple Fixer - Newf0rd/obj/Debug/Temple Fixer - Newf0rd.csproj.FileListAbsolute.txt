@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\bin\Debug\Temple Fixer - Newf0rd.exe.config
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\bin\Debug\Temple Fixer - Newf0rd.exe
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\bin\Debug\Temple Fixer - Newf0rd.pdb
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\obj\Debug\Temple Fixer - Newf0rd.csproj.SuggestedBindingRedirects.cache
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\obj\Debug\Temple Fixer - Newf0rd.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\obj\Debug\Temple Fixer - Newf0rd.exe
+C:\Users\colin\source\repos\Temple Fixer - Newf0rd\Temple Fixer - Newf0rd\obj\Debug\Temple Fixer - Newf0rd.pdb
